@@ -1,8 +1,13 @@
 # History
-```
+```bash
     1  ls
     2  git init
+```
+Reanme the master branch to main
+```
     3  git branch -M main
+```
+```
     4  git status
     5  ls
     6  rm hello.cpp.o 
@@ -22,4 +27,4 @@
    20  git status
    21  history
    22  history > my-history.md
-   ```
+  ```
