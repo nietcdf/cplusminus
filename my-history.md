@@ -27,4 +27,8 @@ Reanme the master branch to main
    20  git status
    21  history
    22  history > my-history.md
+   ```
+   To compile multiple files involved in our final executable
+   ```
+    g++ Driver.cpp Rule.cpp  -o bin/Driver.out
   ```
